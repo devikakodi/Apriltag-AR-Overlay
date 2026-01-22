@@ -41,7 +41,7 @@ Below are sample outputs illustrating successful AprilTag detection and
 
 ## Running the Code
 
-1. Ensure the `apriltag` folder, calibration files (`calibration_set1.npz`, `calibration_set2.npz`), and `Main-code.ipynb` are located in the same directory.
+1. Unzip `apriltag.zip` and ensure the `apriltag` folder, calibration files (`calibration_set1.npz`, `calibration_set2.npz`), and `Main-code.ipynb` are located in the same directory.
 2. Open `Main-code.ipynb` using Jupyter Notebook or JupyterLab.
 3. Update the image path in the notebook to point to the AprilTag image to be processed.
 4. Run the notebook cells sequentially to detect the AprilTag and visualize pose estimation results.
